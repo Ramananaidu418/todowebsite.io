@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/todowebsite.io/static/css/main.52ba249d.chunk.css",
+    "main.js": "/todowebsite.io/static/js/main.6ede3ec7.chunk.js",
+    "main.js.map": "/todowebsite.io/static/js/main.6ede3ec7.chunk.js.map",
+    "runtime-main.js": "/todowebsite.io/static/js/runtime-main.c607ef75.js",
+    "runtime-main.js.map": "/todowebsite.io/static/js/runtime-main.c607ef75.js.map",
+    "static/js/2.7d8de4dd.chunk.js": "/todowebsite.io/static/js/2.7d8de4dd.chunk.js",
+    "static/js/2.7d8de4dd.chunk.js.map": "/todowebsite.io/static/js/2.7d8de4dd.chunk.js.map",
+    "static/js/3.0efe987d.chunk.js": "/todowebsite.io/static/js/3.0efe987d.chunk.js",
+    "static/js/3.0efe987d.chunk.js.map": "/todowebsite.io/static/js/3.0efe987d.chunk.js.map",
+    "index.html": "/todowebsite.io/index.html",
+    "static/css/main.52ba249d.chunk.css.map": "/todowebsite.io/static/css/main.52ba249d.chunk.css.map",
+    "static/js/2.7d8de4dd.chunk.js.LICENSE.txt": "/todowebsite.io/static/js/2.7d8de4dd.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/todowebsite.io/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c607ef75.js",
+    "static/js/2.7d8de4dd.chunk.js",
+    "static/css/main.52ba249d.chunk.css",
+    "static/js/main.6ede3ec7.chunk.js"
+  ]
+}
